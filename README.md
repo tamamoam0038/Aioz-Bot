@@ -63,14 +63,19 @@ Aioz Bot is an advanced automation tool designed to streamline account registrat
 
 ### 🔑 Keywords
 
-- Oasis-Reger
-- Oasis-Farmer
-- Oasis-Miner
-- Oasis-Multireger
-- Oasis-Multifarmer
-- Oasis-AutoFarm
-- Oasis-Extension-Bot
-- Oasis-Bot
-- Oasis-Multiwallet
+Aioz-Reger
+Aioz-Farmer
+Aioz-Miner
+Aioz-Multireger
+Aioz-Multifarmer
+Aioz-Extension-Bot
+Aioz-Bot
+Aioz-Multiwallet
+Aioz-AutoFarm
+Aioz-multibot
+Aioz-software
+Aioz-BotMiner
+Aioz
+Aioz-DePIn
 
 ---
